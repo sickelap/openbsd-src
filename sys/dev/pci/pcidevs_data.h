@@ -6313,7 +6313,15 @@ static const struct pci_known_product pci_known_products[] = {
 	},
 	{
 	    PCI_VENDOR_ATTANSIC, PCI_PRODUCT_ATTANSIC_E2200,
-	    "E2200",
+	    "Killer E2200 Gigabit Ethernet",
+	},
+	{
+	    PCI_VENDOR_ATTANSIC, PCI_PRODUCT_ATTANSIC_E2400,
+	    "Killer E2400 Gigabit Ethernet",
+	},
+	{
+	    PCI_VENDOR_ATTANSIC, PCI_PRODUCT_ATTANSIC_E2500,
+	    "Killer E2500 Gigabit Ethernet",
 	},
 	{
 	    PCI_VENDOR_AUREAL, PCI_PRODUCT_AUREAL_AU8820,

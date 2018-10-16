@@ -2032,7 +2032,9 @@
 #define	PCI_PRODUCT_ATTANSIC_L2	0x2048		/* L2 */
 #define	PCI_PRODUCT_ATTANSIC_L2C_1	0x2060		/* L2C */
 #define	PCI_PRODUCT_ATTANSIC_L2C_2	0x2062		/* L2C */
-#define	PCI_PRODUCT_ATTANSIC_E2200	0xe091		/* E2200 */
+#define	PCI_PRODUCT_ATTANSIC_E2200	0xe091		/* Killer E2200 Gigabit Ethernet */
+#define	PCI_PRODUCT_ATTANSIC_E2400	0xe0a1		/* Killer E2400 Gigabit Ethernet */
+#define	PCI_PRODUCT_ATTANSIC_E2500	0xe0b1		/* Killer E2500 Gigabit Ethernet */
 
 /* Aureal products */
 #define	PCI_PRODUCT_AUREAL_AU8820	0x0001		/* Vortex 1 */

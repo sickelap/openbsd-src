@@ -603,7 +603,8 @@ typedef u_int8_t pci_revision_t;
 #define PCI_PCIE_SLCSR_LACS	0x01000000
 #define PCI_PCIE_RCSR		0x1c
 #define PCI_PCIE_LCAP2		0x2c
-
+#define PCI_PCIE_CTL_MAX_PAYLOAD	0x00e0
+#define PCI_PCIE_CTL_MAX_READ_REQUEST	0x7000
 /*
  * PCI Express; enhanced capabilities
  */

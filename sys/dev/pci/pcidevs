@@ -2027,7 +2027,9 @@ product ATTANSIC AR8171		0x10a1	AR8171
 product ATTANSIC L2		0x2048	L2
 product ATTANSIC L2C_1		0x2060	L2C
 product ATTANSIC L2C_2		0x2062	L2C
-product ATTANSIC E2200		0xe091	E2200
+product ATTANSIC E2200		0xe091	Killer E2200 Gigabit Ethernet
+product ATTANSIC E2400		0xe0a1	Killer E2400 Gigabit Ethernet
+product ATTANSIC E2500		0xe0b1	Killer E2500 Gigabit Ethernet
 
 /* Aureal products */
 product AUREAL AU8820		0x0001	Vortex 1
